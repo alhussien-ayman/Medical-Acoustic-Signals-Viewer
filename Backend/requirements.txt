@@ -1,0 +1,5 @@
+matplotlib
+scipy
+xarray
+netCDF4
+tifffile
